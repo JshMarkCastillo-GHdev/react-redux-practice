@@ -25,9 +25,5 @@ git clone https://github.com/JshMarkCastillo-GHdev/react-redux-practice.git
 ```
 
 ```bash
-npm run build
-```
-
-```bash
-npm run start
+npm run dev
 ```
